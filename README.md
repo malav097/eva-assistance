@@ -6,7 +6,7 @@ This is a telegram bot that i created and now i use in a daily basis. I hosted i
 a AWS EC2 Instance and it communicates with google calendar API, Wikipedia API, Accuwather
 API and of course, Telegram API.
 
-The bot has the following features and functionalities.
+The bot is installed as a `systemd service` and has the following features and functionalities.
 
 ### Execute commands
 

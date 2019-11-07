@@ -44,8 +44,13 @@ Query anything and it will use regular expressions to try to find something usef
 # Bot commands:
 
 `/execute` - Execute commands inside the server that the bot is hosted in.
+
 `/todo` - Add a to-do element to the to-do list.
+
 `/deletetodo` - Remove a to-do element from the to-do list.
+
 `/noteadd` - Add an element to the note list.
+
 `/deletetodo` - Remove an element from the note list.
+
 `/eventadd` - Add event to google calendar with the following format `2019-12-27 Meeting with parthner`.

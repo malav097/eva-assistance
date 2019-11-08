@@ -10,7 +10,7 @@ The bot is installed as a `systemd service` and has the following features and f
 
 ### Execute commands
 
-Execute commands inside the server that the bot is hosted. You provide the telegram userid capable of running commands
+Execute commands inside the server where the bot is hosted. You provide the telegram userid capable of running commands
 in the configuration file. If someone else try to execute commands and is not authorized by you,
 the bot will deliver a warning message to you.
 

@@ -62,3 +62,9 @@ Query anything and it will use regular expressions to try to find something usef
 `/deletetodo` - Remove an element from the note list.
 
 `/eventadd` - Add event to google calendar with the following format `2019-12-27 Meeting with parthner`.
+
+
+
+<img src="https://user-images.githubusercontent.com/44653624/68440774-d5b99980-01aa-11ea-8d98-05b0f7df9d09.png" width="200" height="400" />
+
+

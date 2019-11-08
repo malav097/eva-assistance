@@ -17,6 +17,9 @@ the bot will deliver a warning message to you.
 By a security measure it is recommended that the system user who execute the bot process doesn't have sudo privileges.
 
 
+<img src="https://user-images.githubusercontent.com/44653624/68440760-ccc8c800-01aa-11ea-8af4-55559c83bd8a.png" width="200" height="400" />
+
+
 ### Daily messages
 
 Daily messages that contains weather, to-do list and Google calendar Events.
@@ -24,6 +27,10 @@ Daily messages that contains weather, to-do list and Google calendar Events.
 ### Weather query
 
 1 day forecast or 5 day forecast weather query using the words `clima` or `clima completo`.
+
+
+<img src="https://user-images.githubusercontent.com/44653624/68440785-df430180-01aa-11ea-9675-dabe84cd1364.png
+" width="200" height="400" />
 
 ### Editable lists
 
@@ -41,6 +48,7 @@ Add and query google calendar events
 Query anything and it will use regular expressions to try to find something useful in Wikipedia
 
 
+<img src="https://user-images.githubusercontent.com/44653624/68440774-d5b99980-01aa-11ea-8d98-05b0f7df9d09.png" width="200" height="400" />
 
 # Bot commands:
 

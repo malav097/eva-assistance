@@ -47,7 +47,7 @@ Add and query google calendar events
 Query anything and it will use regular expressions to try to find something useful in Wikipedia
 
 
-<img src="https://user-images.githubusercontent.com/44653624/68440774-d5b99980-01aa-11ea-8d98-05b0f7df9d09.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/44653624/68440769-d0f4e580-01aa-11ea-880f-094b1230c839.png" width="200" height="400" />
 
 # Bot commands:
 

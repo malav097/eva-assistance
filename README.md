@@ -26,7 +26,7 @@ Daily messages that contains weather, to-do list and Google calendar Events.
 
 ### Weather query
 
-1 day forecast or 5 day forecast weather query using the words `clima` or `clima completo`.
+1 day weather forecast or 5 day weather forecast query using the words `clima` or `clima completo`.
 
 
 <img src="https://user-images.githubusercontent.com/44653624/68440785-df430180-01aa-11ea-9675-dabe84cd1364.png" width="200" height="400" />

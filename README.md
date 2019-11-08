@@ -29,8 +29,7 @@ Daily messages that contains weather, to-do list and Google calendar Events.
 1 day forecast or 5 day forecast weather query using the words `clima` or `clima completo`.
 
 
-<img src="https://user-images.githubusercontent.com/44653624/68440785-df430180-01aa-11ea-9675-dabe84cd1364.png
-" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/44653624/68440785-df430180-01aa-11ea-9675-dabe84cd1364.png" width="200" height="400" />
 
 ### Editable lists
 

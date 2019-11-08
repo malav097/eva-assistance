@@ -68,3 +68,6 @@ Query anything and it will use regular expressions to try to find something usef
 <img src="https://user-images.githubusercontent.com/44653624/68440774-d5b99980-01aa-11ea-8d98-05b0f7df9d09.png" width="200" height="400" />
 
 
+Author: Simon Malave simongmalav@gmail.com
+
+
